@@ -3,7 +3,7 @@ import streamlit as st
 # Mengatur tampilan halaman
 st.set_page_config(page_title="KEN I HAIDAR MUSTHOFA XI TJKT", page_icon="🔢")
 
-st.title("🔢 Kalkulator Web Sederhana")
+st.title("🔢 KEN I HAIDAR MUSTHOFA XI TJKT")
 st.write("Aplikasi ini dibuat menggunakan Python dan Streamlit.")
 
 # Membuat kolom untuk input angka
