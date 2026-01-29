@@ -1,9 +1,9 @@
 import streamlit as st
 
 # Mengatur tampilan halaman
-st.set_page_config(page_title="KEN I HAIDAR MUSTHOFA XI TJKT", page_icon="🔢")
+st.set_page_config(page_title="KEN I HAIDAR MUSTHOFA", page_icon="🔢")
 
-st.title("🔢 KEN I HAIDAR MUSTHOFA XI TJKT")
+st.title("🔢 KEN I HAIDAR MUSTHOFA")
 st.write("Aplikasi ini dibuat menggunakan Python dan Streamlit.")
 
 # Membuat kolom untuk input angka
