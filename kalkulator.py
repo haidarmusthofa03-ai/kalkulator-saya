@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Mengatur tampilan halaman
-st.set_page_config(page_title="Kalkulator Web Saya", page_icon="🔢")
+st.set_page_config(page_title="KEN I HAIDAR MUSTHOFA XI TJKT", page_icon="🔢")
 
 st.title("🔢 Kalkulator Web Sederhana")
 st.write("Aplikasi ini dibuat menggunakan Python dan Streamlit.")
